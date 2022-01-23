@@ -2,7 +2,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 <img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Soham%20manjrekar.gif" height="400px" width="1000px">
 <div align="centre">
-##Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name’s Soham Shrikant Manjrekar, I’m 21, still a student
+
 
   ### 🤝 Connect with me:
  
@@ -15,12 +15,14 @@
 
  
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-It's been 2 years, I’m working as web developer.i have developed many website. I love programming, writing, speaking and traveling.
+  <br/>
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name’s Soham Shrikant Manjrekar, I’m 21, still a student<br/>
+    It's been 2 years, I’m working as web developer.i have developed many website. I love programming, writing, speaking and traveling.
 As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
-
+  <br/>
+<br/>
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
