@@ -24,11 +24,10 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [geeksforgeeks](https://www.geeksforgeeks.org/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). 
+- 📫 How to reach me: mrsohammanjrekar@gmail.com;
+- 📝 [Resume](). 
  
 
 
@@ -39,6 +38,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 </br>
 
 📊 This Week I Spent My Time On: ecommerce website backend
+<br/>
 
 📈 **My GitHub Stats:**
 
@@ -48,6 +48,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 </p>
 
 </br>
+<img align="right" alt="GIF" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/image.gif?raw=true" width="408" height="318" />
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -58,7 +59,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 - 📱 Django python Frame-work
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 ### Languages and Tools:
 
 
