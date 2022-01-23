@@ -21,10 +21,8 @@
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
  
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+It's been 2 years, I’m working as web developer.i have developed many website. I love programming, writing, speaking and traveling.
+As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
@@ -46,7 +44,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 This Week I Spent My Time On: ecommerce website backend
 
 📈 **My GitHub Stats:**
 
