@@ -92,7 +92,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=currency-converter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+
 
 <a href="https://github.com/sohammanjrekar/currency-converter ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=E-commerce-Website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
