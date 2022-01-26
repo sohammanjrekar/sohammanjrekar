@@ -83,3 +83,9 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/sohammanjrekar/sohammanjrekar/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/sohammanjrekar/sohammanjrekar/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/sohammanjrekar/sohammanjrekar/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+---
