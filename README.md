@@ -3,7 +3,10 @@
 <img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Soham%20manjrekar.gif" height="400px" width="1000px">
 <div align="centre">
 
-
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/sohammanjrekar/count.svg" />
+</p>
  ### 🤝 Connect with me:
  
  
@@ -145,3 +148,31 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohammanjrekar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://fb.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://hashnode.com/@kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/hashnode.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://dev.to/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://mubinsodyssey.com" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/mubinsodyssey.svg" alt="mubinsodyssey" height="30" width="30" /></a>
+
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+</p>
+<!-- GitHub stats -->
+<b>⚡ My Dev Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
