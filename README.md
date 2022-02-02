@@ -7,9 +7,6 @@
 <h2>Visitors:<p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=sohammanjrekar&color=blue&style=flat-square" alt="sohammanjrekar profile views" />
 </p></h2>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/sohammanjrekar/count.svg" />
-</p>
  <h2> <a target="_blank">
   <img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Handshake.gif" height="37px" style="max-width:100%;">Connect With Me</a>
 </h2>
