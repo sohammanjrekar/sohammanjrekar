@@ -4,6 +4,7 @@
 <div align="centre">
 
 <!-- retro visitor counter -->
+<h2>Visitors:</h2>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/sohammanjrekar/count.svg" />
 </p>
@@ -15,10 +16,10 @@
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/twitter/twitter-original.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/linkedin/linkedin-original.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/facebook/facebook-original.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/instagram-icon.svg" alt="sohammanjrekar" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/instagram-icon.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/gmail-icon.svg" height="30" width="30" /></a>
-  
- 
+  <br>
+ <br>
 ### Glad to see you here! 
   <br/>
 Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name’s Soham Shrikant Manjrekar, I’m 21, still a student<br/>
@@ -53,6 +54,8 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohammanjrekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohammanjrekar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohammanjrekar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </br>
 <img align="right" alt="GIF" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/image.gif?raw=true" width="408" height="318" />
@@ -106,11 +109,28 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://vscode.com/" target="_blank"> <img align="left" alt="vscode" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/vscode/vscode-original.svg"> </a>
 
-<a href="https://pycharm.com/" target="_blank"> <img align="left" alt="pycharm" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/pycharm/pycharm-original.svg"> </a>
-<br>
-<br>
+<a href="https://pycharm.com/" target="_blank"> <img align="left" alt="Pycharm" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/pycharm/pycharm-original.svg"> </a>
+
+<a href="https://bootstarp.com/" target="_blank"> <img align="left" alt="bootstrap" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/bootstrap/bootstrap-original.svg"> </a>
+
+<a href="https://atom.com/" target="_blank"> <img align="left" alt="atom" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/atom/atom-original.svg"> </a>
+
+<a href="https://canva.com/" target="_blank"> <img align="left" alt="canva" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/canva/canva-original.svg"> </a>
+
+<a href="https://firefox.com/" target="_blank"> <img align="left" alt="firefox" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/firefox/firefox-original.svg"> </a>
+
+<a href="https://gcc.com/" target="_blank"> <img align="left" alt="gcc" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/gcc/gcc-original.svg"> </a>
+
+<a href="https://gitlab.com/" target="_blank"> <img align="left" alt="gitlab" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/gitlab/gitlab-original.svg"> </a>
+
+<a href="https://intellij.com/" target="_blank"> <img align="left" alt="intellij" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/intellij/intellij-original.svg"> </a>
+
+<a href="https://pycharm.com/" target="_blank"> <img align="left" alt="Pycharm" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/pycharm/pycharm-original.svg"> </a>
 
 
+
+<br>
+<br>
 
   
   ## 📌 Pinned Repositories
@@ -121,14 +141,6 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=currency-converter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
-
-<a href="https://github.com/sohammanjrekar/currency-converter ">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=E-commerce-Website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
 <a href="https://github.com/sohammanjrekar/currency-converter ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=practice-pandas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -136,7 +148,6 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 <a href="https://github.com/sohammanjrekar/currency-converter ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sohammanjrekar&repo=python-learning&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
-<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sohammanjrekar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
