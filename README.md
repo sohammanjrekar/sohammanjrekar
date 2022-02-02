@@ -16,7 +16,8 @@
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/linkedin/linkedin-original.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/facebook/facebook-original.svg" alt="sohammanjrekar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/instagram-icon.svg" alt="sohammanjrekar" height="30" width="30" /></a>
-
+<a href="" target="blank"><img align="center" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/gmail-icon.svg" height="30" width="30" /></a>
+  
  
 ### Glad to see you here! 
   <br/>
@@ -83,15 +84,15 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://www.w3schools.com/javascript/" target="_blank"> <img align="left" alt="JavaScript" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/javascript/javascript-original.svg"> </a>
 
-<a href="https://www.w3schools.com/java/" target="_blank"> <img align="left" alt="Java" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/java/java-original.svg"> </a>
+<a href="https://www.w3schools.com/java/" target="_blank"> <img align="left" alt="Java" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/java/java-original.svg"> </a>
 
-<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/django/django-plain.svg"> </a>
+<a href="https://www.w3schools.com/django/" target="_blank"> <img align="left" alt="Django" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/django/django-original.svg"> </a>
 
-<a href="https://www.w3schools.com/flask/" target="_blank"> <img align="left" alt="Flask" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/flask/flask-original-wordmark.svg"> </a>
+<a href="https://www.w3schools.com/flask/" target="_blank"> <img align="left" alt="Flask" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/mysql/mysql-original-wordmark.svg"> </a>
 
-<a href="https://www.w3schools.com/php/" target="_blank"> <img align="left" alt="php" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/php/php-original.svg"> </a>
+<a href="https://www.w3schools.com/php/" target="_blank"> <img align="left" alt="php" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/php/php-original.svg"> </a>
 
-<a href="https://www.w3schools.com/" target="_blank"> <img align="left" alt="Tailwand css" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/tailwindcss/tailwindcss-plain.svg"> </a>
+<a href="https://www.w3schools.com/" target="_blank"> <img align="left" alt="Tailwand css" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/tailwindcss/tailwindcss-plain.svg"> </a>
 
 
 
@@ -101,6 +102,11 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 ### Tools and Softwares:
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
+<a href="https://github.com/" target="_blank"> <img align="left" alt="github" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/github-icon.svg"> </a>
+
+<a href="https://vscode.com/" target="_blank"> <img align="left" alt="vscode" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/vscode/vscode-original.svg"> </a>
+
+<a href="https://pycharm.com/" target="_blank"> <img align="left" alt="pycharm" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/pycharm/pycharm-original.svg"> </a>
 <br>
 <br>
 
