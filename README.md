@@ -102,6 +102,8 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 <br>
 <br>
 <br><br>
+
+
 ### Tools and Softwares:
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
@@ -127,8 +129,10 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://pycharm.com/" target="_blank"> <img align="left" alt="Pycharm" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/pycharm/pycharm-original.svg"> </a>
 
-
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
