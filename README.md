@@ -1,6 +1,6 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-<img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Soham%20manjrekar.gif" height="400px" width="1000px">
+<br><img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Soham%20manjrekar.gif" height="400px" width="1000px">
 <div align="centre">
 
 <!-- retro visitor counter -->
@@ -97,8 +97,8 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://www.w3schools.com/" target="_blank"> <img align="left" alt="Tailwand css" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/tailwindcss/tailwindcss-plain.svg"> </a>
 
-
-
+<br>
+<br>
 <br>
 <br>
 
