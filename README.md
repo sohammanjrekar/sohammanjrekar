@@ -126,7 +126,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://intellij.com/" target="_blank"> <img align="left" alt="intellij" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/intellij/intellij-original.svg"> </a>
 
-
+</br></br></br>
 ### Competitive Coding Platforms:
 
 <a href="https://www.topcoder.com/home" target="_blank"> <img align="left" alt="topcoder" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/topcoder_icon.svg"> </a>
@@ -140,10 +140,10 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 <a href="https://www.hackerearth.com/challenges/" target="_blank"> <img align="left" alt="Hackearth" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/hackerearth-logo.png"> </a>
 
 
-<a href="https://coderbyte.com/" target="_blank"> <img align="left" alt="coderbytes" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/coderbytes.png"> </a>
+<a href="https://coderbyte.com/" target="_blank"> <img align="left" alt="coderbytes" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/coderbytes.png"> </a>
 
 
-<a href="https://www.codewars.com/dashboard" target="_blank"> <img align="left" alt="codewars" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/codewars-logo-1.png"> </a>
+<a href="https://www.codewars.com/dashboard" target="_blank"> <img align="left" alt="codewars" width="60px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/codewars-logo-1.png"> </a>
 <br>
 <br>
 <br>
