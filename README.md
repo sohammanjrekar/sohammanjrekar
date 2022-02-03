@@ -126,6 +126,7 @@ As a  engineer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <a href="https://intellij.com/" target="_blank"> <img align="left" alt="intellij" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/intellij/intellij-original.svg"> </a>
 
+<a href="https://www.topcoder.com/home" target="_blank"> <img align="left" alt="topcoder" width="40px" src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/icon/topcoder_icon.svg"> </a>
 
 <br>
 <br>
