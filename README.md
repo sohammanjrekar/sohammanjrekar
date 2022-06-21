@@ -1,5 +1,5 @@
 
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">,I am 
 <br><img src="https://github.com/sohammanjrekar/sohammanjrekar/blob/main/Soham%20manjrekar.gif" height="400px" width="1000px">
 <div align="centre">
 
