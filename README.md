@@ -20,8 +20,15 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Django /Flask
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohammanjrekar)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohammanjrekar)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohammanjrekar&show_icons=true&theme=radical) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sohammanjrekar/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohammanjrekar&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohammanjrekar&layout=compact)](https://github.com/sohammanjrekar/github-readme-stats)
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sohammanjrekar)](https://github.com/sohammanjrekar/github-readme-stats)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohammanjrekar)  
 
