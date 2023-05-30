@@ -1,3 +1,8 @@
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohammanjrekar&custom_title=This%20is%20a%20title&hide_border=true&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Soham Manjrekar </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
