@@ -114,6 +114,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Django / Flask
 
 [![Soham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohammanjrekar&theme=github)](https://git.io/praveenscience)
 
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sohammanjrekar)
+
 ### Connect with me:
 
 <p align="left">
