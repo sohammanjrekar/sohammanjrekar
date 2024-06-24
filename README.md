@@ -118,21 +118,21 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Django / Flask
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sohammanjrekar)
 
-### Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/sohammanjrekar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sohammanjrekar_" height="30" width="40" /></a>
+
+<p align="center">
+<!-- <a href="https://twitter.com/sohammanjrekar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sohammanjrekar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sohammanjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sohammanjrekar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15845071" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15845071" height="30" width="40" /></a>
 <a href="https://instagram.com/sohammanjrekar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sohammanjrekar_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soham manjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="soham manjrekar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/s_manjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="s_manjrekar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/soham_manjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="soham_manjrekar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sohammanjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sohammanjrekar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sohammanjrekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sohammanjrekar" height="30" width="40" /></a> -->
 </p>
 
 <div align="center">
-    <h2 style="color: #44AEFB">📧 Contact Me</h2>
+    <h2 style="color: #44AEFB">📧 Connect with me</h2>
     <a href="mailto:mrsohammanjrekar@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
